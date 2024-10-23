@@ -15,5 +15,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dtb5524&show_icons=true&locale=en&layout=compact" alt="dtb5524" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dtb5524&show_icons=true&locale=en" alt="dtb5524" /></p>
-![background]([image](https://github.com/user-attachments/assets/2e143b42-6df9-45ac-9794-085b90a8d3ba)
+![background]([image](https://wallpapers.com/images/featured/best-hd-background-6g4lg4s48zbikblk.jpg)
 )
