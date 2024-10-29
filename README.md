@@ -2,6 +2,9 @@
 <h3 align="center">Sinh viên Huflit</h3>
 <h3 align="center">Nhóm 2</h3>
 
+# 💫 About Me:
+🔭 I’m currently working on https://github.com/trungbao105/CNPMNC_EnglishCenter<br>👯 I have worked on projects on games, music apps and book selling websites.<br>🌱 I’m currently learning Java spring boost<br>⚡ Fun fact : The QWERTY keyboard was designed to slow you down.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bao5524) 
@@ -19,4 +22,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dtb5524&icon=0&color=4)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bao5524) 
+
+  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
